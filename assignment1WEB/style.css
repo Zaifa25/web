@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+nav a {
+    padding-right: 50px;
+    margin: 20px;
+    color: white;
+}
+
+.main {
+   
+    
+}
+
+.content{
+    background-image: url('image_1.jpg');
+    background-color: blue;
+}
+
+.main p {
+    color: white;
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    
+
+}
